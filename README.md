@@ -1,0 +1,2 @@
+# Amytrader
+Ftxus for beginner
